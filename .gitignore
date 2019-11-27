@@ -1,0 +1,11 @@
+#*png
+#*jpg
+#*bmp
+#models
+results
+*pyc
+*swp
+log
+ignore
+*tar
+tmp
